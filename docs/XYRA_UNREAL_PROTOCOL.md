@@ -1,0 +1,2 @@
+# XYRA Unreal Protocol — Ludus
+Authority Ø > AFTER//MEMORY docs > ADRs > active CodeSpring package > implementation. XYRA loop through plan/build/validate/review/attack/fix/evidence/Git. Narrative Pro 2 + Ultra default; Time Travel/boss/bodycam/environment assets are accelerators and cannot redefine memory/camera/horror canon. One owner per overlapping subsystem. Ludus uses active context/project, plans before staged edits, compiles/tests state graph, traversal/camera/accessibility/save/streaming/performance. Memory rules/canon/core camera/engine changes escalate.
