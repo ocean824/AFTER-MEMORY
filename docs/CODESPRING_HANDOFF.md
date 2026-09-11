@@ -1,0 +1,2 @@
+# CodeSpring → Ludus
+Packages specify WP/requirements, memory/world-state contracts, objective/non-goals, dependencies, docs, targets, acceptance, state-graph/soft-lock/camera/save/performance tests and rollback. Sync active context to `Docs/XYRA`; branch `feature/AFTER-WP-XXXX`; Git/LFS assets. Independent XYRA evidence review before promotion.
