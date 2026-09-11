@@ -1,0 +1,2 @@
+# Ludus Project Prompt — AFTER//MEMORY
+Initialize `ocean824/AFTER-MEMORY` Unreal production/reference build under XYRA. Foundation Narrative Pro 2 + Ultra; Time Travel/boss/environment/bodycam assets follow UNREAL_BUILD classifications. AFTER owns memory graph/world transformations, horror model, colossi and save/camera truth. Execute active CodeSpring package only; plan→implement→compile→state/soft-lock/camera/accessibility/streaming/performance tests→attack/fix→evidence. Preserve memory/encounter fixtures for AXIOM. Escalate canon/signature changes to Ø.
